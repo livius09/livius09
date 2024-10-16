@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @livius09
-- 👀 I’m interested in low level stuff
+- 👀 I’m interested in low level stuff and cyber security
 - 🌱 I’m currently learning: java, js, C, Python
 - 💞️ I’m looking to collaborate on anything i can 
 - 📫 How to reach me: levi.wimroither@gmail.com
