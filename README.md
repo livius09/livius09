@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything i can 
 - 📫 How to reach me: levi.wimroither@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am a 15 year old student who already wrote a compiler
+- ⚡ Fun fact: i am a student who already wrote a compiler
 
 <!---
 livius09/livius09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
